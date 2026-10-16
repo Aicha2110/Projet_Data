@@ -1,11 +1,13 @@
-# Analyse des ventes par région
+# Performance des ventes : le chiffre d’affaires suffit-il ?
 
-J’ai réalisé ce tableau de bord pour suivre le chiffre d’affaires, le bénéfice et les quantités vendues dans quatre régions : Central, East, South et West. Mon objectif était de pouvoir passer d’une vue d’ensemble à une lecture plus précise par région, par État et par mois, puis de comparer les résultats à ceux de l’année précédente.
+J’ai construit ce tableau de bord autour d’une question : **quand les ventes progressent, le bénéfice suit-il ?** Le rapport compare les ventes, les bénéfices et les quantités vendues dans les régions Central, East, South et West, sur les années 2021 à 2024.
 
-Le rapport permet de choisir l’année et l’indicateur à examiner. Pour chaque région, il affiche l’évolution mensuelle avec une ligne de moyenne. La carte et le classement par État donnent une lecture géographique des ventes. Le tableau compare les valeurs de l’année sélectionnée et de l’année précédente pour les ventes, les bénéfices et les quantités.
+On peut choisir une année et un indicateur, suivre son évolution mois par mois dans chaque région, puis comparer les États sur la carte et le classement. Le tableau de synthèse met côte à côte les résultats de l’année sélectionnée et ceux de l’année précédente.
 
-Dans la vue 2024, les ventes totales sont de 733,95 K, soit 20 % de plus que l’année précédente. Le bénéfice progresse de 14 % et les quantités vendues de 27 %. La région West réalise le chiffre d’affaires le plus élevé, à 250,13 K, et son bénéfice augmente de 82 %. Le cas de la région South m’a particulièrement intéressée : les ventes y progressent de 31 %, alors que le bénéfice recule de 50 %. Cela montre pourquoi suivre le chiffre d’affaires seul ne suffit pas ; cet écart mérite une analyse complémentaire.
+La vue 2024 montre pourquoi cette comparaison est utile. Au total, les ventes atteignent 733,95 K, en hausse de 20 %, tandis que le bénéfice progresse de 14 % et les quantités de 27 %. West affiche le chiffre d’affaires le plus élevé, à 250,13 K, avec un bénéfice en hausse de 82 %. À South, les ventes augmentent de 31 %, mais le bénéfice baisse de 50 %.
 
-J’ai aimé construire cette comparaison entre les régions et les indicateurs. Elle m’a permis de faire ressortir une question utile pour l’activité : une hausse des ventes s’accompagne-t-elle aussi d’une meilleure rentabilité ?
+C’est l’écart qui m’a le plus intéressée dans ce projet : **la croissance du chiffre d’affaires ne garantit pas une meilleure rentabilité**. Il donne une piste pour poursuivre l’analyse, par exemple en regardant les remises et les catégories de produits présentes dans les données, sans conclure trop vite à la cause.
 
-**Outils :** Power BI et DAX. Les données de ventes sont fournies dans un fichier Excel.
+Pour construire le rapport, j’ai traduit le cahier des charges en filtres, indicateurs comparatifs, tendances mensuelles et vues géographiques.
+
+**Outils :** Power BI et DAX. Données de ventes fournies sous Excel.
