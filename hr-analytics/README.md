@@ -1,18 +1,34 @@
-# HR Analytics — Power BI
+# Analyse RH — effectifs, rémunérations et satisfaction
 
-## Présentation
+Dans ce projet individuel, j’ai conçu un rapport Power BI pour explorer plusieurs dimensions des ressources humaines et faciliter le repérage des écarts entre groupes, départements et métiers.
 
-Tableau de bord Power BI consacré à l’analyse d’indicateurs RH. La page présente des filtres par genre et situation matrimoniale, des indicateurs clés, ainsi que des vues par département, rôle, niveau d’études et satisfaction.
+## Le besoin métier
 
-## Axes visibles
+Les indicateurs RH prennent davantage de sens lorsqu’ils sont examinés ensemble. Le rapport permet d’explorer les effectifs, les rémunérations et la satisfaction selon plusieurs axes, puis de filtrer les résultats par genre et situation matrimoniale.
 
-- Effectifs et caractéristiques des employés
-- Revenus mensuels par département et rôle
-- Répartition par domaine d’études
-- Satisfaction et performance
+## Ma démarche
 
-## Fichier
+J’ai organisé le rapport autour de questions concrètes :
 
-`HR_REPORT.pbix`
+- comment les effectifs et les profils se répartissent-ils ?
+- comment les rémunérations varient-elles selon le département et le rôle ?
+- que montrent les découpages par domaine d’études, satisfaction et performance ?
+- les tendances observées changent-elles lorsqu’on applique les filtres disponibles ?
 
-Ouvrir le fichier avec Power BI Desktop. Les captures d’écran du rapport pourront être ajoutées ici pour donner un aperçu sans ouvrir Power BI.
+Cette structure permet de passer d’une vue d’ensemble à une lecture plus ciblée. Les comparaisons décrivent les données sélectionnées ; elles ne suffisent pas, à elles seules, à établir une relation de cause à effet.
+
+## Ce que le rapport permet
+
+Le tableau de bord rassemble des indicateurs et des découpages RH dans une même interface interactive. Il aide à formuler des questions de suivi et à identifier les points qui nécessitent une analyse complémentaire.
+
+## Ce que j’ai apprécié dans ce projet
+
+J’ai apprécié le fait de devoir présenter des données RH de façon nuancée : les résultats peuvent varier selon les profils et les contextes, et la visualisation doit aider à explorer ces différences sans tirer de conclusion hâtive.
+
+## Compétences mobilisées
+
+Power BI · analyse d’indicateurs RH · conception de visualisations interactives · exploration par filtres
+
+## Rapport
+
+Le fichier **hr-analytics.pbix** est destiné à être ouvert avec Power BI Desktop.
