@@ -1,9 +1,11 @@
-# Analyse RH
+# Analyse RH : effectifs, rémunération et satisfaction
 
-J’ai réalisé ce tableau de bord pour explorer les données des employés sous plusieurs angles. Je ne voulais pas m’arrêter au nombre de personnes : le rapport rassemble aussi le revenu mensuel, la satisfaction au travail, la performance et l’âge.
+J’ai conçu ce tableau de bord pour aller au-delà du simple décompte des employés et explorer plusieurs aspects de leur situation dans l’entreprise.
 
-Les filtres par genre et situation matrimoniale permettent d’affiner l’analyse. Les graphiques comparent les effectifs et les revenus par département, rôle, niveau de poste et domaine d’études. D’autres vues montrent la répartition par âge et la satisfaction selon le rôle.
+La vue d’ensemble rassemble les effectifs, le revenu mensuel, la satisfaction au travail, la performance et l’âge. Les filtres par genre et situation matrimoniale permettent d’affiner la lecture. Les graphiques comparent les résultats par département, rôle, niveau de poste, domaine d’études et tranche d’âge ; une vue met aussi en regard le rôle et la satisfaction au travail.
 
-Ce projet m’a intéressée parce qu’il permet de rapprocher des sujets qui sont souvent lus séparément : la rémunération, le poste occupé et la satisfaction. Les écarts visibles donnent des pistes de questions à examiner ; ils ne suffisent pas, à eux seuls, à expliquer pourquoi ils existent.
+L’objectif est de repérer les différences qui méritent d’être examinées : la rémunération varie-t-elle selon le poste ou le département ? La satisfaction se répartit-elle de la même façon selon les rôles ? Le tableau de bord aide à poser ces questions, mais les écarts observés ne suffisent pas, à eux seuls, à en expliquer les causes.
+
+Ce que j’ai trouvé intéressant, c’est de rapprocher rémunération, rôle et satisfaction dans une même lecture. Cela aide à voir où une analyse RH plus approfondie serait utile.
 
 **Outil :** Power BI.
