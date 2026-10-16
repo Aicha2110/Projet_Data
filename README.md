@@ -1,6 +1,6 @@
-# Mes projets d’analyse de données
+# Mes projets
 
-Je présente ici deux projets que j’ai réalisés avec Power BI. Le premier porte sur le suivi des ventes par région. Le second explore des indicateurs liés aux ressources humaines.
+Voici deux projets Power BI que j’ai réalisés : l’un sur la performance des ventes, l’autre sur des données RH.
 
-- [Analyse des ventes](sales-overview/README.md)
+- [Analyse des ventes par région](sales-overview/README.md)
 - [Analyse RH](hr-analytics/README.md)
