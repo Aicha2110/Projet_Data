@@ -1,8 +1,16 @@
-# Projets Power BI
+# Portfolio Data & Power BI
 
-Ce dépôt regroupe deux projets Power BI, présentés séparément :
+Je construis ce portfolio pour présenter ma démarche d’analyste : partir d’un besoin métier, structurer les indicateurs utiles et les rendre lisibles dans un rapport interactif.
 
-- [Analyse des ventes](sales-overview/README.md) — suivi des ventes, comparaison annuelle et analyse régionale.
-- [Analyse RH](hr-analytics/README.md) — exploration d’indicateurs liés aux employés, aux rémunérations et à la satisfaction.
+## Projets
 
-Les fichiers `.pbix` permettent d’ouvrir les rapports dans Power BI Desktop.
+- [Analyse commerciale — ventes et performance régionale](sales-overview/README.md)  
+  Comparer les ventes, les bénéfices et les volumes par région, par État et dans le temps.
+- [Analyse RH — effectifs, rémunérations et satisfaction](hr-analytics/README.md)  
+  Explorer les indicateurs RH selon plusieurs caractéristiques des employés.
+
+Chaque projet présente le besoin auquel j’ai répondu, mes choix d’analyse et le rapport Power BI correspondant. Les fichiers sources et les captures ne sont pas inclus dans ce dépôt.
+
+## Ouvrir les rapports
+
+Les fichiers .pbix s’ouvrent avec Power BI Desktop.
