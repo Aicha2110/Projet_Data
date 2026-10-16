@@ -1,16 +1,6 @@
-# Portfolio Data & Power BI
+# Mes projets d’analyse de données
 
-Je construis ce portfolio pour présenter ma démarche d’analyste : partir d’un besoin métier, structurer les indicateurs utiles et les rendre lisibles dans un rapport interactif.
+Je présente ici deux projets que j’ai réalisés avec Power BI. Le premier porte sur le suivi des ventes par région. Le second explore des indicateurs liés aux ressources humaines.
 
-## Projets
-
-- [Analyse commerciale — ventes et performance régionale](sales-overview/README.md)  
-  Comparer les ventes, les bénéfices et les volumes par région, par État et dans le temps.
-- [Analyse RH — effectifs, rémunérations et satisfaction](hr-analytics/README.md)  
-  Explorer les indicateurs RH selon plusieurs caractéristiques des employés.
-
-Chaque projet présente le besoin auquel j’ai répondu, mes choix d’analyse et le rapport Power BI correspondant. Les fichiers sources et les captures ne sont pas inclus dans ce dépôt.
-
-## Ouvrir les rapports
-
-Les fichiers .pbix s’ouvrent avec Power BI Desktop.
+- [Analyse des ventes](sales-overview/README.md)
+- [Analyse RH](hr-analytics/README.md)
